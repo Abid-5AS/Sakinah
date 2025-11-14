@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "arabic": "ٱلرَّحْمَـٰنُ",
+    "transliteration": "Ar-Rahman",
+    "meaningEnglish": "The Most Compassionate",
+    "meaningBengali": "পরম করুণাময়",
+    "explanationEnglish": "The One who has plenty of mercy for the believers and the blasphemers in this world and especially for the believers in the hereafter.",
+    "explanationBengali": "যিনি এই দুনিয়ায় মুমিন এবং কাফির সবার প্রতি দয়ালু এবং আখিরাতে বিশেষভাবে মুমিনদের প্রতি দয়ালু।",
+    "rootWord": "رحم (Rahmah - Mercy)",
+    "relatedNames": [2, 10],
+    "themes": ["mercy", "compassion", "kindness"]
+  },
+  {
+    "id": 2,
+    "arabic": "ٱلرَّحِيمُ",
+    "transliteration": "Ar-Raheem",
+    "meaningEnglish": "The Most Merciful",
+    "meaningBengali": "অসীম দয়ালু",
+    "explanationEnglish": "The One who has plenty of mercy for the believers.",
+    "explanationBengali": "যিনি মুমিনদের প্রতি অসীম দয়া প্রদর্শন করেন।",
+    "rootWord": "رحم (Rahmah - Mercy)",
+    "relatedNames": [1, 10],
+    "themes": ["mercy", "compassion", "kindness"]
+  },
+  {
+    "id": 3,
+    "arabic": "ٱلْمَلِكُ",
+    "transliteration": "Al-Malik",
+    "meaningEnglish": "The King",
+    "meaningBengali": "রাজাধিরাজ",
+    "explanationEnglish": "The One with the complete Dominion, the One Whose Dominion is clear from imperfection.",
+    "explanationBengali": "যিনি সম্পূর্ণ আধিপত্যের মালিক, যাঁর সার্বভৌমত্ব সকল ত্রুটি থেকে মুক্ত।",
+    "rootWord": "ملك (Mulk - Kingdom)",
+    "relatedNames": [4, 8],
+    "themes": ["sovereignty", "power", "authority"]
+  },
+  {
+    "id": 4,
+    "arabic": "ٱلْقُدُّوسُ",
+    "transliteration": "Al-Quddus",
+    "meaningEnglish": "The Most Sacred",
+    "meaningBengali": "পরম পবিত্র",
+    "explanationEnglish": "The One who is pure from any imperfection and clear from children and adversaries.",
+    "explanationBengali": "যিনি সকল ত্রুটি থেকে মুক্ত এবং সন্তান ও প্রতিদ্বন্দ্বী থেকে পবিত্র।",
+    "rootWord": "قدس (Quds - Holiness)",
+    "relatedNames": [3, 5],
+    "themes": ["holiness", "purity", "perfection"]
+  },
+  {
+    "id": 5,
+    "arabic": "ٱلسَّلَامُ",
+    "transliteration": "As-Salam",
+    "meaningEnglish": "The Source of Peace",
+    "meaningBengali": "শান্তির উৎস",
+    "explanationEnglish": "The One who is free from every imperfection. The One who brings peace and security.",
+    "explanationBengali": "যিনি সকল ত্রুটি থেকে মুক্ত। যিনি শান্তি ও নিরাপত্তা প্রদান করেন।",
+    "rootWord": "سلم (Salama - Peace)",
+    "relatedNames": [4, 6],
+    "themes": ["peace", "tranquility", "safety"]
+  },
+  {
+    "id": 6,
+    "arabic": "ٱلْمُؤْمِنُ",
+    "transliteration": "Al-Mu'min",
+    "meaningEnglish": "The Granter of Security",
+    "meaningBengali": "নিরাপত্তা প্রদানকারী",
+    "explanationEnglish": "The One who assures His creation of His trust and bestows His peace and security.",
+    "explanationBengali": "যিনি তাঁর সৃষ্টিকে তাঁর বিশ্বাসের আশ্বাস দেন এবং তাঁর শান্তি ও নিরাপত্তা প্রদান করেন।",
+    "rootWord": "أمن (Amana - Security)",
+    "relatedNames": [5, 7],
+    "themes": ["security", "faith", "trust"]
+  },
+  {
+    "id": 7,
+    "arabic": "ٱلْمُهَيْمِنُ",
+    "transliteration": "Al-Muhaymin",
+    "meaningEnglish": "The Guardian",
+    "meaningBengali": "তত্ত্বাবধায়ক",
+    "explanationEnglish": "The One who witnesses the saying and deeds of His creation.",
+    "explanationBengali": "যিনি তাঁর সৃষ্টির কথা ও কাজের সাক্ষী।",
+    "rootWord": "هيمن (Haymana - To watch over)",
+    "relatedNames": [6, 11],
+    "themes": ["protection", "watchfulness", "guardian"]
+  },
+  {
+    "id": 8,
+    "arabic": "ٱلْعَزِيزُ",
+    "transliteration": "Al-Aziz",
+    "meaningEnglish": "The Almighty",
+    "meaningBengali": "সর্বশক্তিমান",
+    "explanationEnglish": "The Strong, The Defeater who is not defeated.",
+    "explanationBengali": "শক্তিশালী, পরাজয়হীন বিজয়ী।",
+    "rootWord": "عزز (Azza - Might)",
+    "relatedNames": [3, 9],
+    "themes": ["strength", "power", "honor"]
+  },
+  {
+    "id": 9,
+    "arabic": "ٱلْجَبَّارُ",
+    "transliteration": "Al-Jabbar",
+    "meaningEnglish": "The Compeller",
+    "meaningBengali": "মহাপরাক্রমশালী",
+    "explanationEnglish": "The One that nothing happens in His Dominion except that which He willed.",
+    "explanationBengali": "যাঁর আধিপত্যে তাঁর ইচ্ছা ছাড়া কিছুই ঘটে না।",
+    "rootWord": "جبر (Jabr - Compulsion)",
+    "relatedNames": [8, 10],
+    "themes": ["power", "strength", "restoration"]
+  },
+  {
+    "id": 10,
+    "arabic": "ٱلْمُتَكَبِّرُ",
+    "transliteration": "Al-Mutakabbir",
+    "meaningEnglish": "The Supreme",
+    "meaningBengali": "সর্বোচ্চ মহিমান্বিত",
+    "explanationEnglish": "The One who is clear from the attributes of the creation and from resembling them.",
+    "explanationBengali": "যিনি সৃষ্টির গুণাবলী এবং তাদের সাথে সাদৃশ্য থেকে মুক্ত।",
+    "rootWord": "كبر (Kibr - Greatness)",
+    "relatedNames": [1, 9],
+    "themes": ["majesty", "greatness", "pride"]
+  }
+]
